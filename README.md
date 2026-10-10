@@ -1,2 +1,4 @@
-# NewRepoTest
-notebook1practical
+##Herbie Hadcroft
+#About Me
+Studying Cybersecurity and Digital Forensics at LBU /n
+First Year
